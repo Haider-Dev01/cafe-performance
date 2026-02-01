@@ -1,0 +1,14 @@
+🔍 Compréhension Globale du Projet
+
+*)Contexte : Analyse prédictive pour une chaîne de 3 cafés (2024).
+*) Objectifs métier :Identifier les cafés performants
+                  Déterminer quand ouvrir plus de caisses
+                  Trouver les produits "booster" (café/croissant/sandwich)
+
+*)Données : Dataset synthétique généré avec NumPy (500+ lignes), avec des colonnes clés :
+    ventes_total (normal + saisonnalité + weekend boost)
+    nb_clients (Poisson)
+    temperature (sinusoïde annuelle + bruit)
+    est_weekend (True/False)
+
+*)Phases d'apprentissage : 5 notebooks Jupyter avec progression technique.
