@@ -12,3 +12,5 @@
     est_weekend (True/False)
 
 *)Phases d'apprentissage : 5 notebooks Jupyter avec progression technique.
+
+
